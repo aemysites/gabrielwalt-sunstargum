@@ -1,0 +1,153 @@
+{
+  "originUrl": "https://www.sunstargum.com",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.sunstargum.com/fr-fr/",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr",
+      "id": "fcc9c6d084f974384e50fdf6fbe13096aafff730"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/campagnes/gum-nettoyez-entre.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/campagnes/gum-nettoyez-entre",
+      "id": "1976b5049ddc9ba527074a32011098d806ce1911"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/campagnes/programme-ambassadeurs.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/campagnes/programme-ambassadeurs",
+      "id": "fc40bae637a40a0e17e9d1d739be346549aa8e9c"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/contactez-nous.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/contactez-nous",
+      "id": "380f40393d5dae40873e2465093e45a3cecd4ae9"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/legale/conditions-d-utilisation.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/legale/conditions-d-utilisation",
+      "id": "01cbe834f8e20de7e7b08c3a9a8f44c959822205"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/legale/mentions-legales.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/legale/mentions-legales",
+      "id": "4e1483ed709380167fdc5b6ef65d40f0d923efc8"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/legale/politique-de-confidentialite.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/legale/politique-de-confidentialite",
+      "id": "858266bbf52dcb974d7386e53a63a8d12885121b"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/lexique/plaque-dentaire.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/lexique/plaque-dentaire",
+      "id": "e3666abdfa667bbd3ef45a986926aa4c7ad3a121"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/ou-trouver-nos-produits.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/ou-trouver-nos-produits",
+      "id": "7878b1f19bfe5e590ee966f70f834d982fa12bf0"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/qui-sommes-nous/nos-rituels-de-soins-bucco-dentaires.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/qui-sommes-nous/nos-rituels-de-soins-bucco-dentaires",
+      "id": "15a21c6b706d722490cc8633ead84ffeda3659e9"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/sante-bucco-dentaire.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/sante-bucco-dentaire",
+      "id": "9544dcae84357cb1a4dcb0054f40de14d785133b"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/sante-bucco-dentaire/bain-de-bouche-avec-ou-sans-alcool.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/sante-bucco-dentaire/bain-de-bouche-avec-ou-sans-alcool",
+      "id": "62774631163642d0761cd8d7ba0204dd522b37e9"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/sante-bucco-dentaire/gingivite-signe-d-alerte-de-la-maladie-parodontale.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/sante-bucco-dentaire/gingivite-signe-d-alerte-de-la-maladie-parodontale",
+      "id": "cb9d50795ce5c4093605149af7d41bbcea7f5917"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/sante-bucco-dentaire/interdentaire-brossette-ou-fil-dentaire.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/sante-bucco-dentaire/interdentaire-brossette-ou-fil-dentaire",
+      "id": "9b0448a82acb25be4c26723df6cc76077396dff3"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/sante-bucco-dentaire/stomatite.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/sante-bucco-dentaire/stomatite",
+      "id": "f049a22225867e64c025f5eadd7f9d9c8c80b476"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/soins-et-produits-dentaires.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/soins-et-produits-dentaires",
+      "id": "d66253561f1b542482f7be9ea28eb35e305db260"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/soins-et-produits-dentaires/batonnets-interdentaires/batonnet-interdentaire-gum-soft-picks-minty.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/soins-et-produits-dentaires/batonnets-interdentaires/batonnet-interdentaire-gum-soft-picks-minty",
+      "id": "a3b23f72f475e81a8b0985fbe5a1829667638e6a"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/soins-et-produits-dentaires/batonnets-interdentaires/batonnet-interdentaire-gum-soft-picks-pro.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/soins-et-produits-dentaires/batonnets-interdentaires/batonnet-interdentaire-gum-soft-picks-pro",
+      "id": "6bfd0438fd906d9ed9cda915214d16864d132042"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/soins-et-produits-dentaires/brosses-a-dents/brosse-a-dents-electrique-a-pile-gum-sonic-ortho.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/soins-et-produits-dentaires/brosses-a-dents/brosse-a-dents-electrique-a-pile-gum-sonic-ortho",
+      "id": "e43acabc0c2adbe5b2c0288767c70d71e0a53cb3"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/soins-et-produits-dentaires/brossettes-interdentaires.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/soins-et-produits-dentaires/brossettes-interdentaires",
+      "id": "07ad3c1d3182b0660a27ed518a72cf964753344f"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/soins-et-produits-dentaires/brossettes-interdentaires/brossette-interdentaire-gum-bi-direction.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/soins-et-produits-dentaires/brossettes-interdentaires/brossette-interdentaire-gum-bi-direction",
+      "id": "ecc25ebf1a4a7968b046192d22b80232ed808016"
+    },
+    {
+      "url": "https://www.sunstargum.com/fr-fr/soins-et-produits-dentaires/brossettes-interdentaires/brossette-interdentaire-gum-trav-ler.html",
+      "source": "MANUAL",
+      "targetPath": "/fr-fr/soins-et-produits-dentaires/brossettes-interdentaires/brossette-interdentaire-gum-trav-ler",
+      "id": "0f24dae3909524a54f1fce59ed3bd4b3388afed8"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
